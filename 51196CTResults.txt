@@ -1,0 +1,7 @@
+Patient ID: 51196
+Total Agatston CAC Score: 1
+LM: 2
+LAD: 3
+LCX: 4
+RCA: 5
+PDA: 6

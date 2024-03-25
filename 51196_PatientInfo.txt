@@ -1,0 +1,7 @@
+Patient ID: 51196
+First Name: Cyler
+Last Name: Minkus
+Email: cminkus@asu.edu
+Phone: 1234567890
+Health History: N/A
+Insurance ID: 12345
